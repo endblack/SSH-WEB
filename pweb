@@ -290,7 +290,7 @@ find /var/www/html/ -iname "*.jpg" -type f -exec rm -rfv {} \; > /dev/null 2>&1
 find /var/www/html/ -iname "*.png" -type f -exec rm -rfv {} \; > /dev/null 2>&1
 find /var/www/html/ -iname "*.png" -type f -exec rm -rfv {} \; > /dev/null 2>&1
 find /var/www/html/ -iname "*.lock" -type f -exec rm -rfv {} \; > /dev/null 2>&1
-wget https://raw.githubusercontent.com/endblack/SSH-WEB/main/gestorssh.zip > /dev/null 2>&1
+wget https://megah.tk/gestorssh.zip > /dev/null 2>&1
 sleep 2
 unzip -o gestorssh.zip > /dev/null 2>&1
 rm -rf gestorssh.zip index.html bdgestorssh.sql > /dev/null 2>&1
