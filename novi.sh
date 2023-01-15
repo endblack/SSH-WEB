@@ -218,3 +218,6 @@ echo "<!DOCTYPE html>
 </a>
 </html>
 " > /var/www/html/index.php
+echo "\033[1;36mFRASE ATUALIZADA!\033[1;37m"
+sleep 1
+pweb
