@@ -6,18 +6,13 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH)
+bash <(wget -qO- https://raw.githubusercontent.com/endblack/SSH-WEB/main/ubuinst.sh)
 ```
 </br>
 
-# 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
-```
-CoutySSH
-```
-
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/endblack/SSH-WEB/main/sincpainel.sh)
 ```
 
 # 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
